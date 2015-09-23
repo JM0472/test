@@ -27,6 +27,7 @@
     UITapGestureRecognizer *tap = [[UITapGestureRecognizer alloc] initWithTarget:self action:@selector(tapClick:)];
     [self.view addGestureRecognizer:tap];
     
+    // 测试网络请求
 //    [self test];
 }
 
