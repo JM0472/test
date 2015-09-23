@@ -8,8 +8,12 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController <UITextFieldDelegate>
 
+@property (strong, nonatomic) IBOutlet UITextField *rTextField;
+@property (strong, nonatomic) IBOutlet UITextField *gTextField;
+@property (strong, nonatomic) IBOutlet UITextField *bTextField;
+@property (strong, nonatomic) IBOutlet UIView *colorView;
 
 @end
 
