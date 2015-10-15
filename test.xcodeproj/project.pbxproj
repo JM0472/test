@@ -23,6 +23,7 @@
 		FD88E4B91B9D2E2300270240 /* AFURLRequestSerialization.m in Sources */ = {isa = PBXBuildFile; fileRef = FD88E4AE1B9D2E2300270240 /* AFURLRequestSerialization.m */; };
 		FD88E4BA1B9D2E2300270240 /* AFURLResponseSerialization.m in Sources */ = {isa = PBXBuildFile; fileRef = FD88E4B01B9D2E2300270240 /* AFURLResponseSerialization.m */; };
 		FD88E4BB1B9D2E2300270240 /* AFURLSessionManager.m in Sources */ = {isa = PBXBuildFile; fileRef = FD88E4B21B9D2E2300270240 /* AFURLSessionManager.m */; };
+		FDBB50611BCCB60700F8E242 /* ChooesTableVC.m in Sources */ = {isa = PBXBuildFile; fileRef = FDBB50601BCCB60700F8E242 /* ChooesTableVC.m */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -68,6 +69,8 @@
 		FD88E4B01B9D2E2300270240 /* AFURLResponseSerialization.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFURLResponseSerialization.m; sourceTree = "<group>"; };
 		FD88E4B11B9D2E2300270240 /* AFURLSessionManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFURLSessionManager.h; sourceTree = "<group>"; };
 		FD88E4B21B9D2E2300270240 /* AFURLSessionManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFURLSessionManager.m; sourceTree = "<group>"; };
+		FDBB505F1BCCB60700F8E242 /* ChooesTableVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ChooesTableVC.h; sourceTree = "<group>"; };
+		FDBB50601BCCB60700F8E242 /* ChooesTableVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ChooesTableVC.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,6 +116,8 @@
 				FD5CFAF91B954648005FC53A /* AppDelegate.m */,
 				FD5CFAFB1B954648005FC53A /* ViewController.h */,
 				FD5CFAFC1B954648005FC53A /* ViewController.m */,
+				FDBB505F1BCCB60700F8E242 /* ChooesTableVC.h */,
+				FDBB50601BCCB60700F8E242 /* ChooesTableVC.m */,
 				FD88E49F1B9D2E2300270240 /* AFNetworking */,
 				FD5CFAFE1B954648005FC53A /* Main.storyboard */,
 				FD5CFB011B954648005FC53A /* Images.xcassets */,
@@ -279,6 +284,7 @@
 				FD88E4B41B9D2E2300270240 /* AFHTTPRequestOperationManager.m in Sources */,
 				FD88E4B61B9D2E2300270240 /* AFNetworkReachabilityManager.m in Sources */,
 				FD88E4BA1B9D2E2300270240 /* AFURLResponseSerialization.m in Sources */,
+				FDBB50611BCCB60700F8E242 /* ChooesTableVC.m in Sources */,
 				FD88E4B81B9D2E2300270240 /* AFURLConnectionOperation.m in Sources */,
 				FD88E4B71B9D2E2300270240 /* AFSecurityPolicy.m in Sources */,
 				FD88E4B51B9D2E2300270240 /* AFHTTPSessionManager.m in Sources */,
